@@ -1,4 +1,4 @@
-## 𝗧𝗲𝗰h Stack
+## Tech Stack
 
 <table>
   <tbody>
